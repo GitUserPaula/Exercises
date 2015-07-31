@@ -1,3 +1,3 @@
 # Exercises
-Some practice on main concepts 
-\n Parte 4 Arrays
+Some practice on main concepts.
+Parte 4 Arrays
